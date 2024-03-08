@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T20:29:42 IST" name="Default suite" finished-at="2024-03-04T20:30:31 IST" duration-ms="48947">
+    <groups>
+    </groups>
+    <test started-at="2024-03-04T20:29:42 IST" name="Default test" finished-at="2024-03-04T20:30:31 IST" duration-ms="48947">
+      <class name="com.Selenium.Test.RunTest">
+        <test-method signature="testOne()[pri:0, instance:com.Selenium.Test.RunTest@3c73951]" started-at="2024-03-04T20:29:42 IST" name="testOne" finished-at="2024-03-04T20:30:31 IST" duration-ms="48753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+      </class> <!-- com.Selenium.Test.RunTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
